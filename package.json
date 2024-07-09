@@ -1,0 +1,21 @@
+{
+  "name": "cosmico",
+  "displayName": "Cosmico",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmico",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmico-color-theme.json"
+      }
+    ]
+  }
+}
