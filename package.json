@@ -1,18 +1,46 @@
 {
   "name": "cosmico",
   "displayName": "Cosmico",
+  "publisher": "marianoibarra",
+  "author": {
+    "name": "Mariano Ibarra",
+    "url": "https://marianoibarra.com/",
+    "email": "marianoibarratesta@outlook.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marianoibarra/cosmico-theme.git"
+    "url": "https://github.com/marianoibarra/cosmico-theme"
   },
-  "description": "",
-  "version": "0.0.2",
+  "bugs": {
+    "url": "https://github.com/marianoibarra/cosmico-theme/issues"
+  },
+  "description": "A clean Visual Studio Code theme based in the IDX default theme.",
+  "version": "0.2.0",
+  "preview": true,
   "engines": {
     "vscode": "^1.91.0"
   },
-  "categories": [
-    "Themes"
+  "keywords": [
+    "theme",
+    "dark",
+    "cosmic",
+    "clean",
+    "elegant",
+    "space",
+    "best"
   ],
+  "galleryBanner": {
+    "color": "#171f2b",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
   "contributes": {
     "themes": [
       {
