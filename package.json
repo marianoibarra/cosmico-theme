@@ -1,8 +1,12 @@
 {
   "name": "cosmico",
   "displayName": "Cosmico",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marianoibarra/cosmico-theme.git"
+  },
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.91.0"
   },
