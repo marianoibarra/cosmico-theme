@@ -16,7 +16,7 @@
     "url": "https://github.com/marianoibarra/cosmico-theme/issues"
   },
   "description": "A clean Visual Studio Code theme based in the IDX default theme.",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "preview": true,
   "engines": {
     "vscode": "^1.91.0"
