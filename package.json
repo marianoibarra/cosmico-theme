@@ -7,7 +7,7 @@
     "url": "https://marianoibarra.com/",
     "email": "marianoibarratesta@outlook.com"
   },
-  "icon": "static/icon.png",
+  "icon": "/static/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/marianoibarra/cosmico-theme"
