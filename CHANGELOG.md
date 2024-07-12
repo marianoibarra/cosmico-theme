@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "cosmico" extension will be documented in this file.
+All notable changes to the ✨ **Cosmico** ✨ extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.3.0]
 
-## [Unreleased]
+- Add extension icon
+- Improve color contrast
+- Add README.md and CHANGELOG.md
+
+## [0.2.0]
 
 - Initial release

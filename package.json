@@ -7,6 +7,7 @@
     "url": "https://marianoibarra.com/",
     "email": "marianoibarratesta@outlook.com"
   },
+  "icon": "static/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/marianoibarra/cosmico-theme"
@@ -15,7 +16,7 @@
     "url": "https://github.com/marianoibarra/cosmico-theme/issues"
   },
   "description": "A clean Visual Studio Code theme based in the IDX default theme.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "preview": true,
   "engines": {
     "vscode": "^1.91.0"
