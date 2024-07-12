@@ -1,6 +1,7 @@
 <p align="center">
-  <img alt="Cosmico Logo" width="100" />
+  <img alt="Cosmico Logo" src="https://github.com/user-attachments/assets/b7004493-d8e6-4330-89b2-baab835116fa" width="160" />
 </p>
+
 <h1 align="center">
   ✨ Cosmico Theme ✨ for VS Code
 </h1>
